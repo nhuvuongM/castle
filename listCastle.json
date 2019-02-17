@@ -1,0 +1,28 @@
+{
+  "castleChef": [
+    {
+      "castleName": "Abbaye de la Bussière",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bussiere-cote-d-or-la-bussiere-sur-ouche",
+      "chef": "Chef - Guillaume Royer",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/guillaume-royer"
+    },
+    {
+      "castleName": "Anne de Bretagne",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/annedebretagne-loire-atlantique-la-plaine-sur-mer",
+      "chef": "Chef - Mathieu Guibert",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/mathieu-guibert"
+    },
+    {
+      "castleName": "Assiette Champenoise",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/assiette-champenoise-champagne-ardenne-tinqueux",
+      "chef": "Chef - Arnaud Lallement",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/arnaud-lallement"
+    },
+    {
+      "castleName": "Au Crocodile",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/crocodile-bas-rhin",
+      "chef": "Chef - Franck Pelux",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/franck-pelux"
+    }
+  ]
+}
