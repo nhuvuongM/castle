@@ -2,7 +2,7 @@ const cheerio = require('cheerio')
 const axios = require('axios')
 const fs = require('fs')
 const getName = require('./nameResto')
-
+const getPrice = require('./price')
 
 // step 1 : get all castles' name + castle url + chef's name + chef url + associated resto
 
@@ -47,6 +47,7 @@ function getCastleChef(url){
 
         }
         else{
+
           axios.get(urlChef).then(function (response) {
             const html = response.data
             const $ = cheerio.load(html)
