@@ -4,8 +4,7 @@ const fs = require('fs')
 const getName = require('./nameResto')
 
 
-
-// step 1 : get all castles' name + castle url + chef's name + chef url
+// step 1 : get all castles' name + castle url + chef's name + chef url + associated resto
 
 const url  = "https://www.relaischateaux.com/fr/site-map/etablissements"
 
@@ -28,7 +27,7 @@ function getCastleChef(url){
     const html = response.data
     const $ = cheerio.load(html)
     var info = $('#countryF').eq(1).find('li')
-    var countResponse= 0
+    var countResponse= 1
 
     info.each((i, el) =>{
 
@@ -41,8 +40,11 @@ function getCastleChef(url){
 
         listCastle[i]={castleName,urlCastle,chef, urlChef}
         console.log(urlChef)
+
         if(urlChef == null){
           countResponse++
+          console.log("listcastle length : " + listCastle.length)
+
         }
         else{
           axios.get(urlChef).then(function (response) {
@@ -53,10 +55,13 @@ function getCastleChef(url){
 
             countResponse++
 
+            console.log("count response : " + countResponse)
+            console.log("listcastle length : " + listCastle.length)
 
-          if(countResponse===listCastle.length){
+          if(countResponse==listCastle.length){
+            console.log("mjbserg")
             console.log(listCastle)
-            //toJSON(listCastle)
+            toJSON(listCastle)
           }
 
         })

@@ -4,25 +4,1044 @@
       "castleName": "Abbaye de la Bussière",
       "urlCastle": "https://www.relaischateaux.com/fr/france/bussiere-cote-d-or-la-bussiere-sur-ouche",
       "chef": "Chef - Guillaume Royer",
-      "urlChef": "https://www.relaischateaux.com/fr/chef/guillaume-royer"
+      "urlChef": "https://www.relaischateaux.com/fr/chef/guillaume-royer",
+      "restoName": "Gastronomique"
     },
     {
       "castleName": "Anne de Bretagne",
       "urlCastle": "https://www.relaischateaux.com/fr/france/annedebretagne-loire-atlantique-la-plaine-sur-mer",
       "chef": "Chef - Mathieu Guibert",
-      "urlChef": "https://www.relaischateaux.com/fr/chef/mathieu-guibert"
+      "urlChef": "https://www.relaischateaux.com/fr/chef/mathieu-guibert",
+      "restoName": "Anne de Bretagne"
     },
     {
       "castleName": "Assiette Champenoise",
       "urlCastle": "https://www.relaischateaux.com/fr/france/assiette-champenoise-champagne-ardenne-tinqueux",
       "chef": "Chef - Arnaud Lallement",
-      "urlChef": "https://www.relaischateaux.com/fr/chef/arnaud-lallement"
+      "urlChef": "https://www.relaischateaux.com/fr/chef/arnaud-lallement",
+      "restoName": "L'Assiette Champenoise"
+    },
+    {
+      "castleName": "Auberge de l’Île Barbe",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/aubergedelile-rhone-lyon",
+      "chef": "Chef - Jean-Christophe Ansanay-Alex",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-christophe-ansanay-alex",
+      "restoName": "Auberge de l’Île Barbe"
+    },
+    {
+      "castleName": "Auberge des Glazicks",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/auberge-des-glazicks-plomodiern",
+      "chef": "Chef - Olivier Bellin",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/olivier-bellin",
+      "restoName": "L'Auberge des Glazicks"
+    },
+    {
+      "castleName": "Auberge des Templiers",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/templiers-loiret-boismorand",
+      "chef": "Chef - Martin Simonart",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/martin-simonart",
+      "restoName": "Auberge des Templiers"
+    },
+    {
+      "castleName": "Auberge du Jeu de Paume",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/jeudepaume-oise-chantilly",
+      "chef": "Chef - Julien Lucas",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/julien-lucas",
+      "restoName": "La Table du Connétable"
+    },
+    {
+      "castleName": "Au Cœur du Village Hôtel & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/coeurduvillage-rhone-alpes-la-clusaz",
+      "chef": "Chef - Cédric Heurtebise & Vincent Deforce",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/cedric-heurtebise-vincent-deforce",
+      "restoName": "Restaurant Gastronomique le Cinq Restaurant Gourmand le Cœur "
     },
     {
       "castleName": "Au Crocodile",
       "urlCastle": "https://www.relaischateaux.com/fr/france/crocodile-bas-rhin",
       "chef": "Chef - Franck Pelux",
-      "urlChef": "https://www.relaischateaux.com/fr/chef/franck-pelux"
+      "urlChef": "https://www.relaischateaux.com/fr/chef/franck-pelux",
+      "restoName": "Au Crocodile"
+    },
+    {
+      "castleName": "Baumanière Hôtel & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/baumaniere-hotel-spa-les-baux-de-provence",
+      "chef": "Chef - Glenn Viel",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/glenn-viel",
+      "restoName": "L'Oustau de Baumanière"
+    },
+    {
+      "castleName": "Brittany & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/brittany-finistere-roscoff",
+      "chef": "Chef - Loic Le Bail",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/loic-le-bail",
+      "restoName": "Le Brittany"
+    },
+    {
+      "castleName": "Cap d’Antibes Beach Hotel",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/antibes-alpes-maritimes-cap-d-antibes",
+      "chef": "Chef - Nicolas Rondelli",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/nicolas-rondelli",
+      "restoName": "Les Pêcheurs"
+    },
+    {
+      "castleName": "Castel Clara Thalasso & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/castelclara-morbihan-bangor",
+      "chef": "Chef - Franck Moisan",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/franck-moisan",
+      "restoName": "Le 180°"
+    },
+    {
+      "castleName": "Cazaudehore « La Forestière »",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/cazaudehore-yvelines-saint-germain-en-laye",
+      "chef": "Chef - Gregory Balland",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/gregory-balland",
+      "restoName": "Cazaudehore"
+    },
+    {
+      "castleName": "Château Cordeillan-Bages",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/cordeillan-gironde-pauillac",
+      "chef": "Chef - Julien Lefebvre",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/julien-lefebvre",
+      "restoName": "Restaurant Cordeillan-Bages"
+    },
+    {
+      "castleName": "Château d’Adoménil",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/adomenil-meurthe-et-moselle-luneville",
+      "chef": "Chef - Cyril Leclerc",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/cyril-leclerc",
+      "restoName": "Chateau d'Adomenil"
+    },
+    {
+      "castleName": "Château d’Audrieu",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/audrieu-calvados-audrieu",
+      "chef": "Chef - Olivier Barbarin",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/olivier-barbarin",
+      "restoName": "Le Séran"
+    },
+    {
+      "castleName": "Château de Bagnols",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bagnols-rhone-alpes",
+      "chef": "Chef - Jean-Alexandre Ouaratta",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-alexandre-ouaratta",
+      "restoName": "1217"
+    },
+    {
+      "castleName": "Château de Berne",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/berne-var-lorgues",
+      "chef": "Chef - Benjamin Collombat",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/benjamin-collombat",
+      "restoName": "Le BistrotLe Jardin de Benjamin"
+    },
+    {
+      "castleName": "Château de Codignat",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/codignat-puy-de-dome-bort-l-etang",
+      "chef": "Chef - Mathieu Barbet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/mathieu-barbet",
+      "restoName": "Château de Codignat"
+    },
+    {
+      "castleName": "Château de Courcelles",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/courcelles-aisne-courcelles-sur-vesle",
+      "chef": "Chef - Lucas Vannier",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/lucas-vannier",
+      "restoName": "Château de Courcelles"
+    },
+    {
+      "castleName": "Château de Curzay",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/curzay-vienne-curzay-sur-vonne",
+      "chef": "Chef - Thierry Assailly",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/thierry-assailly",
+      "restoName": "Les Quatre Saisons"
+    },
+    {
+      "castleName": "Château de Drudas",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chateau-de-drudas",
+      "chef": "Chef - Axell Boisselier",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/axell-boisselier",
+      "restoName": "Le Verdurier"
+    },
+    {
+      "castleName": "Château de Fonscolombe",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/fonscolombe-bouches-du-rhone",
+      "chef": "Chef - Nadège Serret",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/nadege-serret",
+      "restoName": "L'Orangerie"
+    },
+    {
+      "castleName": "Château de Germigney",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/germigney-jura-port-lesney",
+      "chef": "Chef - Pierre Basso-Moro",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/pierre-basso-moro",
+      "restoName": "Château de Germigney"
+    },
+    {
+      "castleName": "Château de La Chèvre d’Or",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chevredor-alpes-maritimes-eze-village",
+      "chef": "Chef - Arnaud Faye",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/arnaud-faye",
+      "restoName": "Terrasse Les RempartsLa Chèvre d'OrLe Café du JardinLes Remparts"
+    },
+    {
+      "castleName": "Château de la Treyne",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/treyne-lot-lacave",
+      "chef": "Chef - Stéphane Andrieux",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/stephane-andrieux",
+      "restoName": "Château de la Treyne"
+    },
+    {
+      "castleName": "Château de Locguénolé",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/locguenole-morbihan-kervignac",
+      "chef": "Chef - Jérémie Louis",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jeremie-louis",
+      "restoName": "Château de Locguénolé"
+    },
+    {
+      "castleName": "Château de Mercuès",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/mercues-lot-mercues",
+      "chef": "Chef - Julien Poisot",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/julien-poisot",
+      "restoName": "Le DuèzeLe Bistrot du Château"
+    },
+    {
+      "castleName": "Château de Mirambeau",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/mirambeau-charente-maritime-mirambeau",
+      "chef": ""
+    },
+    {
+      "castleName": "Château de Montreuil",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/montreuil-pas-de-calais-montreuil",
+      "chef": "Chef - Jean-Marie Le Guen",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-marie-le-guen",
+      "restoName": "Château de Montreuil"
+    },
+    {
+      "castleName": "Château de Noirieux",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/noirieux-maine-et-loire-briollay",
+      "chef": "Chef - Christophe Guillemot",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/christophe-guillemot",
+      "restoName": "La Table de Noirieux"
+    },
+    {
+      "castleName": "Château de Noizay",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/noizay-indre-et-loire-noizay",
+      "chef": "Chef - Frédéric Collin",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/frederic-collin",
+      "restoName": "Le Castel"
+    },
+    {
+      "castleName": "Château de Riell",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/riell-pyrenees-orientales-prades",
+      "chef": "Chef - Sébastien Nouveau",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/sebastien-nouveau",
+      "restoName": "Restaurant du Châtelain"
+    },
+    {
+      "castleName": "Château de Rochegude",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/rochegude-drome-rochegude",
+      "chef": "Chef - Thierry Frebout",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/thierry-frebout",
+      "restoName": "Roche Aiguë"
+    },
+    {
+      "castleName": "Château des Avenières",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/avenieres-haute-savoie-cruseilles",
+      "chef": "Chef - Anthony Laboubé",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/anthony-laboub",
+      "restoName": "Le \"M\""
+    },
+    {
+      "castleName": "Château de Valmer",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chateau-de-valmer-la-croix-valmer",
+      "chef": "Chef - Jimmy Coutel",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jimmy-coutel",
+      "restoName": "La Palmeraie"
+    },
+    {
+      "castleName": "Château Lafaurie-Peyraguey Hôtel & Restaurant LALIQUE",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chateau-lafaurie-peyraguey-lalique-bommes",
+      "chef": "Chef - Jérôme Schilling",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jerome-schilling",
+      "restoName": "Restaurant LALIQUE"
+    },
+    {
+      "castleName": "Clarance Hôtel",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/clarance-hotel-nord",
+      "chef": "Chef - Thibaut Gamba",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/thibaut-gamba",
+      "restoName": "La Table"
+    },
+    {
+      "castleName": "Coquillade Village",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/coquillade-vaucluse-gargas",
+      "chef": "Chef - Thierry Enderlin",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/thierry-enderlin",
+      "restoName": "Le Gourmet"
+    },
+    {
+      "castleName": "Domaine d’Auriac",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/auriac-aude-carcassonne",
+      "chef": "Chef - Philippe Deschamps",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/philippe-deschamps",
+      "restoName": "Le restaurant Bernard Rigaudis"
+    },
+    {
+      "castleName": "Domaine de la Bretesche Golf & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bretesche-loire-atlantique-missillac",
+      "chef": "Chef - Frédéric Murati",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/frederic-murati",
+      "restoName": "Le Montaigu"
+    },
+    {
+      "castleName": "Domaine de Rochevilaine",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/rochevilaine-morbihan-billiers",
+      "chef": "Chef - Maxime Nouail",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/maxime-nouail",
+      "restoName": "Domaine de Rochevilaine"
+    },
+    {
+      "castleName": "Domaine Les Crayères",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/crayeres-marne-reims",
+      "chef": "Chef - Philippe Mille",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/philippe-mille",
+      "restoName": "La Brasserie « Le Jardin »Le restaurant gastronomique « Le Parc » **"
+    },
+    {
+      "castleName": "Flocons de Sel",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/flocons-haute-savoie-megeve",
+      "chef": "Chef - Emmanuel Renaut",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/emmanuel-renaut",
+      "restoName": "Flocons de Sel"
+    },
+    {
+      "castleName": "Georges Blanc Parc & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/blanc-ain-vonnas",
+      "chef": "Chef - Georges Blanc",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/georges-blanc",
+      "restoName": "Restaurant Gastronomique Georges BLANC"
+    },
+    {
+      "castleName": "Grand Hôtel de Cala Rossa & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/calarossa-corse-porto-vecchio",
+      "chef": "Chef - Pascal Cayeux",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/pascal-cayeux",
+      "restoName": "La Table de Cala RossaLa Pinède"
+    },
+    {
+      "castleName": "Grand Hôtel du Lion d’Or",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/liondor-loir-et-cher-romorantin-lanthenay",
+      "chef": "Chef - Didier Clément",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/didier-clement",
+      "restoName": "Grand Hôtel du Lion d'Or"
+    },
+    {
+      "castleName": "Hameau Albert Ier",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/albert-haute-savoie-chamonix-mont-blanc",
+      "chef": "Chef - Damien Leveau",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/damien-leveau",
+      "restoName": "Albert 1er"
+    },
+    {
+      "castleName": "Hostellerie de Levernois",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/levernois-cote-d-or-levernois-beaune",
+      "chef": "Chef - Philippe Augé",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/philippe-auge",
+      "restoName": "Le GastronomiqueLe Bistrot du Bord de l'Eau"
+    },
+    {
+      "castleName": "Hostellerie de Plaisance",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/plaisance-gironde-saint-emilion",
+      "chef": "Chef - Ronan Kervarrec",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/ronan-kervarrec",
+      "restoName": "L'Envers du DécorLa Table de Plaisance"
+    },
+    {
+      "castleName": "Hostellerie La Briqueterie",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/briqueterie-marne-vinay",
+      "chef": "Chef - Thomas Debouzy",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/thomas-debouzy",
+      "restoName": "Restaurant de l'Hostellerie la Briqueterie"
+    },
+    {
+      "castleName": "Hostellerie La Cheneaudière & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/cheneaudiere-bas-rhin-colroy-la-roche",
+      "chef": "Chef - Roger Bouhassoun",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/roger-bouhassoun",
+      "restoName": "Hostellerie La Cheneaudière & Spa"
+    },
+    {
+      "castleName": "Hôtel Crillon le Brave",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/crillonbrave-vaucluse-crillon-le-brave",
+      "chef": "Chef - Julien Marseault",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/julien-marseault",
+      "restoName": "Restaurant La Madeleine"
+    },
+    {
+      "castleName": "Hôtel Daniel",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/danielparis-paris",
+      "chef": "Maître de maison - Cécile Croisard",
+      "urlChef": "https://www.relaischateaux.com/fr/maitre-maison/cecile-croisard",
+      "restoName": "Hôtel Daniel"
+    },
+    {
+      "castleName": "Hôtel de la Plage",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/laplage-finistere-sainte-anne-la-palud",
+      "chef": "Chef - Yoann Noël",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/yoann-no%C3%ABl",
+      "restoName": "Hôtel de la Plage"
+    },
+    {
+      "castleName": "Hôtel du Bois Blanc",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/hotel-du-bois-blanc-ain-vonnas",
+      "chef": "Maître de maison - Georges Blanc",
+      "urlChef": "https://www.relaischateaux.com/fr/maitre-maison/georges-blanc-maitre-de-maison",
+      "restoName": "Hôtel du Bois Blanc"
+    },
+    {
+      "castleName": "Hôtel et Restaurant Régis et Jacques Marcon",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/cimes-haute-loire-saint-bonnet-le-froid",
+      "chef": "Chef - Régis & Jacques Marcon",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/regis-jacques-marcon",
+      "restoName": "Restaurant Régis et Jacques Marcon"
+    },
+    {
+      "castleName": "Hotel Ile de la Lagune Thalasso & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/ile-de-la-lagune-saint-cyprien",
+      "chef": "Chef - Christophe Schmitt",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/christophe-schmitt",
+      "restoName": "Restaurant l'Almandin"
+    },
+    {
+      "castleName": "Hôtel Impérial Garoupe",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/garoupe-alpes-maritimes-cap-d-antibes",
+      "chef": "Chef - Pierre-Alain Garnier",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/pierre-alain-garnier",
+      "restoName": "Pavillon BeachLe Pavillon"
+    },
+    {
+      "castleName": "Hôtel Le Chabichou Restaurants & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chabichou-savoie-courchevel-1850",
+      "chef": "Chef - Michel Rochedy & Stéphane Buron",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-rochedy-stephane-buron",
+      "restoName": "Le Chabichou"
+    },
+    {
+      "castleName": "Hôtel Les Barmes de l'Ours",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/barmes-de-l-ours-savoie",
+      "chef": "Chef - Antoine Gras",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/antoine-gras",
+      "restoName": "La Table de l'Ours"
+    },
+    {
+      "castleName": "Hôtel Parc Victoria",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/parcvictoria-pyrenees-atlantiques-saint-jean-de-luz",
+      "chef": "Chef - Guillaume Applaincourt",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/guillaume-applaincourt",
+      "restoName": "Les Lierres"
+    },
+    {
+      "castleName": "Hôtel Restaurant Auberge du Père Bise – Jean Sulpice",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bise-haute-savoie-talloires",
+      "chef": "Chef - Jean Sulpice",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-sulpice",
+      "restoName": "Auberge du Père Bise - Jean Sulpice"
+    },
+    {
+      "castleName": "Hôtel Restaurant Clos des Sens - Laurent PETIT",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/clos-des-sens-haute-savoie",
+      "chef": "Chef - Laurent Petit",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/laurent-petit",
+      "restoName": "Restaurant Clos des Sens - Laurent PETITCafé Brunet"
+    },
+    {
+      "castleName": "Hôtel Restaurant En Marge",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/hotel-restaurant-en-marge-aureville",
+      "chef": "Chef - Frank Renimel",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/frank-renimel",
+      "restoName": "En Marge"
+    },
+    {
+      "castleName": "Hotel & Restaurant Thierry Drapeau",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/thierrydrapeau-vendee-saint-sulpice-le-verdon",
+      "chef": "Chef - Thierry Drapeau",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/thierry-drapeau",
+      "restoName": "Restaurant Thierry Drapeau"
+    },
+    {
+      "castleName": "Hôtel & Spa du Castellet",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/castellet-var-le-castellet",
+      "chef": "Chef - Christophe Bacquié",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/christophe-bacquie",
+      "restoName": "Restaurant Christophe Bacquié"
+    },
+    {
+      "castleName": "Hôtel-Spa La Bouitte – Restaurant René et Maxime Meilleur",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/la-bouitte-savoie",
+      "chef": "Chef - René et Maxime Meilleur",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/rene-et-maxime-meilleur",
+      "restoName": "Restaurant René & Maxime Meilleur"
+    },
+    {
+      "castleName": "Hôtel Splendide Royal Paris",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/hotel-splendide-royal-paris",
+      "chef": "Chef - Vito Grippa",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/vito-grippa",
+      "restoName": "Ristorante Tosca, Paris 8ème"
+    },
+    {
+      "castleName": "Jiva Hill Resort",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/jivahill-ain-crozet",
+      "chef": "Chef - Vincent Betton",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/vincent-betton",
+      "restoName": "Restaurant Shamwari"
+    },
+    {
+      "castleName": "La Bastide",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/labastide-gers-barbotan-les-thermes",
+      "chef": "Chef - Jérôme Artiguebère",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jerome-artiguebere",
+      "restoName": "La Table de La Bastide"
+    },
+    {
+      "castleName": "La Bastide de Capelongue",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/capelongue-vaucluse-bonnieux-en-provence",
+      "chef": "Chef - Édouard Loubet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/edouard-loubet",
+      "restoName": "Restaurant Edouard LoubetLa Bergerie d’Edouard Loubet"
+    },
+    {
+      "castleName": "La Bastide de Saint-Tropez",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/tropez-var-saint-tropez",
+      "chef": "Chef - Philippe Colinet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/philippe-colinet",
+      "restoName": "L’Olivier"
+    },
+    {
+      "castleName": "La Bastide Saint-Antoine",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/saintantoine-alpes-maritimes-grasse",
+      "chef": "Chef - Laurent Barberot",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/laurent-barberot",
+      "restoName": "La Bastide Saint-Antoine"
+    },
+    {
+      "castleName": "La Bonne Étape",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bonneetape-alpes-de-haute-provence-chateau-arnoux",
+      "chef": "Chef - Jany Gleize",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jany-gleize",
+      "restoName": "La Bonne Étape"
+    },
+    {
+      "castleName": "La Chapelle Saint-Martin",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chapelle-haute-vienne-nieul",
+      "chef": "Chef - Gilles Dudognon",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/gilles-dudognon",
+      "restoName": "La Chapelle Saint MartinLa Table du CouventLe 27 Restaurant"
+    },
+    {
+      "castleName": "La Côte Saint Jacques & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/la-cote-saint-jacques-yonne-joigny",
+      "chef": "Chef - Jean-Michel Lorain",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-michel-lorain",
+      "restoName": "La côte saint-jacques"
+    },
+    {
+      "castleName": "La Ferme Saint-Siméon",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/simeon-calvados-honfleur",
+      "chef": "Chef - Sébastien Faramond",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/sebastien-faramond",
+      "restoName": "La Ferme Saint-Siméon"
+    },
+    {
+      "castleName": "La Grande Maison de Bernard Magrez",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/grande-maison-bernard-magrez-gironde-bordeaux",
+      "chef": "Chef - Jean-Denis Le Bras - Pierre Gagnaire",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-denis-le-bras-pierre-gagnaire",
+      "restoName": "Restaurant Pierre Gagnaire à La Grande Maison de Bernard Magrez"
+    },
+    {
+      "castleName": "La Grenouillère",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lagrenouillere-pas-de-calais-la-madelaine-sous-montreuil",
+      "chef": "Chef - Alexandre Gauthier",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/alexandre-gauthier",
+      "restoName": "La Grenouillère"
+    },
+    {
+      "castleName": "La Maison des Bois – Marc Veyrat",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/marcveyrat-haute-savoie-manigod",
+      "chef": "Chef - Marc Veyrat",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/marc-veyrat",
+      "restoName": "La Maison des Bois – Marc Veyrat"
+    },
+    {
+      "castleName": "La Maison d'Uzès",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/maisonduzes-gard-uzes",
+      "chef": "Chef - Christophe Ducros",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/christophe-ducros",
+      "restoName": "La Table d'Uzès"
+    },
+    {
+      "castleName": "La Pyramide Patrick Henriroux",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/pyramide-isere-vienne",
+      "chef": "Chef - Patrick Henriroux",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/patrick-henriroux",
+      "restoName": "La Pyramide Patrick Henriroux"
+    },
+    {
+      "castleName": "La Réserve",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/reservealbi-tarn-albi",
+      "chef": "Chef - Benoit Solomiac",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/benoit-solomiac",
+      "restoName": "La Réserve"
+    },
+    {
+      "castleName": "L’Arnsbourg Restaurant et Hôtel",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/arnsbourg-moselle-baerenthal",
+      "chef": "Chef - Fabien Mengus",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/fabien-mengus",
+      "restoName": "L'Arnsbourg"
+    },
+    {
+      "castleName": "La Signoria & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/signoria-corse-calvi",
+      "chef": "Chef - Alexandre Fabris",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/alexandre-fabris",
+      "restoName": "La Signoria"
+    },
+    {
+      "castleName": "L'Auberge Basque",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques",
+      "chef": "Chef - Cédric Béchade",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/cedric-bechade",
+      "restoName": "La Table de l'Auberge Basque"
+    },
+    {
+      "castleName": "La Villa Archange",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/archange-alpes-maritimes",
+      "chef": "Chef - Bruno Oger",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/bruno-oger",
+      "restoName": "La Villa Archange"
+    },
+    {
+      "castleName": "La Villa Calvi",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lavilla-haute-corse-calvi",
+      "chef": "Chef - Jerome Voltzenlogel",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jerome-voltzenlogel",
+      "restoName": "La Table by La Villa"
+    },
+    {
+      "castleName": "Le Castel Marie-Louise",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/marielouise-loire-atlantique-la-baule",
+      "chef": "Chef - Eric Mignard",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/eric-mignard",
+      "restoName": "Castel Marie-Louise"
+    },
+    {
+      "castleName": "Le Chambard",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/le-chambard-haut-rhin-kaysersberg",
+      "chef": "Chef - Olivier Nasti",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/olivier-nasti",
+      "restoName": "La Table d'Olivier Nasti"
+    },
+    {
+      "castleName": "Le Château de Beaulieu",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/chateaubeaulieu-pas-de-calais-busnes",
+      "chef": "Chef - Marc Meurin",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/marc-meurin",
+      "restoName": "Le Jardin d'AliceLe Meurin"
+    },
+    {
+      "castleName": "Le Clos",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/leclos-normandie-verneuil-sur-avre",
+      "chef": "Maître de maison - Odile et Éric Brial",
+      "urlChef": "https://www.relaischateaux.com/fr/maitre-maison/odile-eric-brial",
+      "restoName": "Le Clos"
+    },
+    {
+      "castleName": "Le Club de Cavalière & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/cavaliere-var-le-lavandou-cavaliere",
+      "chef": "Chef - Marc Dach",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/marc-dach",
+      "restoName": "La Vieille FontaineLe Grand Coeur & Spa"
+    },
+    {
+      "castleName": "Le Couvent des Minimes Hôtel & Spa L'Occitane",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/minimes-alpes-de-haute-provence-mane",
+      "chef": "Chef - Jérôme ROY",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jerome-roy",
+      "restoName": "Le Cloître"
+    },
+    {
+      "castleName": "Le Domaine de Verchant",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/verchant-herault-montpellier",
+      "chef": "Chef - Damien Cousseau",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/damien-cousseau",
+      "restoName": "Verchant"
+    },
+    {
+      "castleName": "Le Grand Cœur & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/grandcoeur-savoie-meribel",
+      "chef": "Chef - Marc Dach",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/marc-dach",
+      "restoName": "La Vieille FontaineLe Grand Coeur & Spa"
+    },
+    {
+      "castleName": "Le Grand Véfour",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/vefour-paris",
+      "chef": "Chef - Guy Martin",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/guy-martin",
+      "restoName": "Le Grand Véfour"
+    },
+    {
+      "castleName": "Le Mas de Pierre",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/maspierre-alpes-maritimes-saint-paul-de-vence",
+      "chef": "Chef - Emmanuel Lehrer",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/emmanuel-lehrer",
+      "restoName": "La Table de Pierre"
+    },
+    {
+      "castleName": "Le Mas des Herbes Blanches",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/masherbes-vaucluse-joucas",
+      "chef": "Chef - Cyril Mendès",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/cyril-mendes",
+      "restoName": "La Table du Mas"
+    },
+    {
+      "castleName": "Le Petit Nice-Passedat",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/passedat-bouches-du-rhone-marseille",
+      "chef": "Chef - Gérald Passedat",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/gerald-passedat",
+      "restoName": "Le Petit NiceLe 1917"
+    },
+    {
+      "castleName": "Le Phébus & Spa - Villa des Anges",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/phebus-vaucluse-gordes",
+      "chef": "Chef - Xavier Mathieu",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/xavier-mathieu",
+      "restoName": "La Table de Xavier MathieuLe Café de la Fontaine"
+    },
+    {
+      "castleName": "Le Pré Catelan",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/catelan-paris",
+      "chef": "Chef - Frédéric Anton",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/frederic-anton",
+      "restoName": "Le Pré Catelan"
+    },
+    {
+      "castleName": "Le Prieuré Baumanière",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/leprieure-gard-villeneuve-lez-avignon",
+      "chef": "Chef - Marc Fontanne",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/marc-fontanne",
+      "restoName": "Le Prieuré"
+    },
+    {
+      "castleName": "Le Relais Bernard Loiseau – Spa Loiseau des Sens",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/loiseau-cote-d-or-saulieu",
+      "chef": "Chef - Patrick Bertron",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/patrick-bertron",
+      "restoName": "Bernard Loiseau"
+    },
+    {
+      "castleName": "Le Saint-James Bouliac",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/stjames-gironde-bouliac",
+      "chef": "Chef - Nicolas Magie",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/nicolas-magie",
+      "restoName": "Le Saint-James BouliacLe Café de L'Espérance"
+    },
+    {
+      "castleName": "Le Saint-Paul",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/stpaul-alpes-maritimes-saint-paul-de-vence",
+      "chef": "Chef - Romain Massart",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/romain-massart",
+      "restoName": "Le Saint-Paul"
+    },
+    {
+      "castleName": "Les Bas Rupts",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/basrupts-vosges-gerardmer",
+      "chef": "Chef - Michel Philippe",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-philippe",
+      "restoName": "Bas Rupts"
+    },
+    {
+      "castleName": "Les Bergeries de Palombaggia",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/palombaggia-corse-du-sud-porto-vecchio",
+      "chef": "Chef - Jean-Jacques Gauthier",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-jacques-gauthier",
+      "restoName": "La Table de Mina"
+    },
+    {
+      "castleName": "Les Hautes Roches",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/hautesroches-indre-et-loire-rochecorbon",
+      "chef": "Chef - Didier Edon",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/didier-edon",
+      "restoName": "Les Hautes Roches"
+    },
+    {
+      "castleName": "Les Hauts de Loire",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/hauts-loire-loir-et-cher-onzain",
+      "chef": "Chef - Rémy Giraud",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/remy-giraud",
+      "restoName": "Le Restaurant des Hauts de Loire"
+    },
+    {
+      "castleName": "Les Maisons de Bricourt",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bricourt-ille-et-vilaine-saint-meloir-des-ondes",
+      "chef": "Chef - Olivier & Hugo Roellinger",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/olivier-hugo-roellinger",
+      "restoName": "Le Coquillage"
+    },
+    {
+      "castleName": "Les Prés d’Eugénie - Maison Guérard",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/guerard-landes-eugenie-les-bains",
+      "chef": "Chef - Michel Guérard",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-guerard",
+      "restoName": "Restaurant Michel GuérardAuberge de La Ferme aux Grives"
+    },
+    {
+      "castleName": "Le Suquet, Sébastien Bras",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/bras-aveyron-laguiole",
+      "chef": "Chef - Sébastien Bras",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/sebastien-bras",
+      "restoName": "BRAS"
+    },
+    {
+      "castleName": "Le Taillevent",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/taillevent-paris",
+      "chef": "Chef - David Bizet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/david-bizet",
+      "restoName": "Le Taillevent"
+    },
+    {
+      "castleName": "Le Vieux Logis",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/vieuxlogis-dordogne-tremolat",
+      "chef": "Chef - Vincent Arnould",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/vincent-arnould",
+      "restoName": "Le Vieux Logis"
+    },
+    {
+      "castleName": "L’Hôtel de Toiras & Villa Clarisse",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/toiras-charente-maritime-saint-martin-de-re",
+      "chef": "Chef - Antonio Sanna",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/antonio-sanna",
+      "restoName": "La Table d'Olivia"
+    },
+    {
+      "castleName": "L’Oasis",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/oasis-alpes-maritimes-la-napoule",
+      "chef": "Chef - Alain Montigny",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/alain-montigny",
+      "restoName": "L’Oasis"
+    },
+    {
+      "castleName": "Lucas Carton",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lucascarton-ile-de-france-paris",
+      "chef": "Chef - Julien Dumas",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/julien-dumas",
+      "restoName": "Lucas Carton"
+    },
+    {
+      "castleName": "Maison Decoret",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/decoret-allier-vichy",
+      "chef": "Chef - Jacques Decoret",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jacques-decoret",
+      "restoName": "Jacques Decoret"
+    },
+    {
+      "castleName": "Maison Doucet",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/hotel-laposte-doucet-saone-et-loire",
+      "chef": "Chef - Frédéric Doucet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/frederic-doucet",
+      "restoName": "Restaurant Frédéric Doucet"
+    },
+    {
+      "castleName": "Maison Lameloise",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lameloise-saone-et-loire-chagny",
+      "chef": "Chef - Eric Pras",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/eric-pras",
+      "restoName": "Maison Lameloise"
+    },
+    {
+      "castleName": "Maison Pic",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/pic-drome-valence",
+      "chef": "Chef - Anne-Sophie Pic",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/anne-sophie-pic",
+      "restoName": "Anne-Sophie Pic - Le RestaurantAndré"
+    },
+    {
+      "castleName": "Maison Rostang",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/rostang-paris",
+      "chef": "Chef - Michel Rostang et Nicolas Beaumann",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-rostang",
+      "restoName": "Maison Rostang"
+    },
+    {
+      "castleName": "Manoir de Lan-Kerellec",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lankerellec-cotes-d-armor-trebeurden",
+      "chef": "Chef - Anthony Avoine",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/anthony-avoine",
+      "restoName": "Manoir de Lan-Kerellec"
+    },
+    {
+      "castleName": "Marquis Faubourg Saint-Honoré",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/marquis-faubourg-saint-honore-ile-de-france-paris",
+      "chef": ""
+    },
+    {
+      "castleName": "Michel Trama",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/aubergade-lot-et-garonne-puymirol",
+      "chef": "Chef - Michel Trama",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-trama",
+      "restoName": "Restaurant Michel Trama"
+    },
+    {
+      "castleName": "Monte-Carlo Beach",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/montecarlo-alpes-maritimes-roquebrune-cap-martin",
+      "chef": "Chef - Paolo Sari",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/paolo-sari",
+      "restoName": "Elsa 1 Michelin star"
+    },
+    {
+      "castleName": "Moulin de l’Abbaye",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/moulin-dordogne-brantome-en-perigord",
+      "chef": "Chef - Jean Michel Bardet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-michel-bardet",
+      "restoName": "Moulin de l'Abbaye"
+    },
+    {
+      "castleName": "Pan Deï Palais",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/pandei-var-saint-tropez",
+      "chef": "Chef - Quentin Durand",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/quentin-durand",
+      "restoName": "Pan Deï Palais"
+    },
+    {
+      "castleName": "Passage 53",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/passage53-paris",
+      "chef": "Chef - Shinichi Sato",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/shinichi-sato",
+      "restoName": "Passage 53"
+    },
+    {
+      "castleName": "Pierre Gagnaire",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/gagnaire-paris",
+      "chef": "Chef - Pierre Gagnaire",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/pierre-gagnaire",
+      "restoName": "Pierre Gagnaire"
+    },
+    {
+      "castleName": "Relais de la Poste",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/poste-landes-magescq",
+      "chef": "Chef - Jean Coussau",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-coussau",
+      "restoName": "Relais de la Poste"
+    },
+    {
+      "castleName": "Restaurant Alexandre",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/alexandre-gard-garons",
+      "chef": "Chef - Michel Kayser",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-kayser",
+      "restoName": "Restaurant Alexandre"
+    },
+    {
+      "castleName": "Restaurant Christopher Coutanceau",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/coutanceau-charente-maritime-la-rochelle",
+      "chef": "Chef - Christopher Coutanceau",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/christopher-coutanceau",
+      "restoName": "Christopher Coutanceau"
+    },
+    {
+      "castleName": "Restaurant Gill",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/gill-seine-maritime-rouen",
+      "chef": "Chef - Gilles Tournadre",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/gilles-tournadre",
+      "restoName": "Restaurant Gill"
+    },
+    {
+      "castleName": "Restaurant Greuze",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/restaurant-greuze-tournus",
+      "chef": ""
+    },
+    {
+      "castleName": "Restaurant Guy Lassausaie",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lassausaie-rhone-alpes-chasselay",
+      "chef": "Chef - Guy Lassausaie",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/guy-lassausaie",
+      "restoName": "Restaurant Guy Lassausaie"
+    },
+    {
+      "castleName": "Restaurant Mirazur",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/mirazur-alpes-maritimes-menton",
+      "chef": "Chef - Mauro Colagreco",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/mauro-colagreco",
+      "restoName": "Restaurant Mirazur"
+    },
+    {
+      "castleName": "Restaurant Pierre Orsi",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/orsi-rhone-lyon",
+      "chef": "Chef - Pierre Orsi",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/pierre-orsi",
+      "restoName": "Restaurant CazenoveRestaurant Pierre Orsi"
+    },
+    {
+      "castleName": "Restaurant Serge Vieira",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/vieira-cantal",
+      "chef": "Chef - Serge Vieira",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/serge-vieira",
+      "restoName": "Restaurant Serge Vieira"
+    },
+    {
+      "castleName": "Royal Champagne Hotel & Spa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/royalchampagne-marne-champillon",
+      "chef": "Chef - Jean-Denis Rieubland",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-denis-rieubland",
+      "restoName": "Le Royal"
+    },
+    {
+      "castleName": "Saint James Paris",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/saintjames-paris-ile-de-france-paris",
+      "chef": "Chef - Adrien Brunet",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/adrien-brunet",
+      "restoName": "Restaurant du Saint James Paris"
+    },
+    {
+      "castleName": "Tiara Yaktsa",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/yaktsa-alpes-maritimes-theoule-sur-mer",
+      "chef": "Chef - Guillaume Anor",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/guillaume-anor",
+      "restoName": "Restaurant L'Or Bleu"
+    },
+    {
+      "castleName": "Troisgros",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/troisgros-loire-ouches",
+      "chef": "Chef - Michel et César Troisgros",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/michel-cesar-troisgros"
+    },
+    {
+      "castleName": "Villa Florentine",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/florentine-rhone-lyon",
+      "chef": "Chef - David Delsart",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/david-delsart",
+      "restoName": "Les Terrasses de Lyon"
+    },
+    {
+      "castleName": "Villa Gallici",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/gallici-bouches-du-rhone-aix-en-provence",
+      "chef": "Chef - Christophe Gavot",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/christophe-gavot",
+      "restoName": "Villa Gallici"
+    },
+    {
+      "castleName": "Villa René Lalique",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/lalique-bas-rhin",
+      "chef": "Chef - Jean-Georges Klein",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/jean-georges-klein",
+      "restoName": "Villa René Lalique"
+    },
+    {
+      "castleName": "Yoann Conte – Bord du Lac Hôtel Restaurant",
+      "urlCastle": "https://www.relaischateaux.com/fr/france/yoannconte-haute-savoie-veyrier-du-lac",
+      "chef": "Chef - Yoann Conte",
+      "urlChef": "https://www.relaischateaux.com/fr/chef/yoann-conte",
+      "restoName": "Hôtel Restaurant Yoann Conte – Bord du Lac"
     }
   ]
 }
